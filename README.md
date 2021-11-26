@@ -39,14 +39,59 @@ Execute the program
          </tr>
           <tr>
              <td>MONDAY</td>
-             <td>Accounts</td>
-             <td>English</td>
-             <td>Statistics</td>
-             <td>Banking</td>
-             <td align="center">-</td>
-             <td align="center">EP</td>
+             <td>web technology</td>
+             <td>web technology</td>
+             <td>python& linear algebra</td>
+             
+             <td>python linear algebra</td>
+             <td align="center">python& linear algebra</td>
+             <td align="center">python &linear algebra</td>
          </tr>
-  
+  <tr>
+             <td>tuesday</td>
+             <td>softskill</td>
+             <td>soft skill</td>
+             <td>mechanical and modeling </td>
+             
+             <td>mechanical and modeling</td>
+             <td align="center">mechanical and modeling</td>
+             <td align="center">mechanical and modeling</td>
+         </tr>
+         <tr>
+             <td>wednesday</td>
+             <td>-</td>
+             <td>-</td>
+             <td> python& linear algebra</td>
+             
+             <td>python& linear algebra</td>
+             <td align="center">mechanical and modeling</td>
+             <td align="center">mechanical and modeling</td>
+         </tr>
+         
+         <tr>
+             <td> thursday</td>
+             <td>mechanical and modeling </td>
+             
+           <td>mechanical and modeling </td>
+             <td>python linear algebra</td>
+             <td>python linear algebra</td>
+            
+             <td align="center">mechanical and modeling</td>
+             <td align="center">mechanical and modeling</td>
+         </tr>
+          <tr>
+             <td>friday</td>
+             <td>enviromental  science</td>
+             <td>enviromental  science</td>
+             <td>python linear algebra</td>
+             <td>python linear algebra</td>
+             
+             
+             <td align="centre">web technology</td>
+             <td align="centre">web technology</td>
+
+            
+
          
       </table>
       
