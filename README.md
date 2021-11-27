@@ -14,7 +14,7 @@ Add your timetable
 Execute the program
 
 # CODE
-~~~<!DOCTYPE html>
+~~<!DOCTYPE html>
 <html>
 
    <head>
@@ -23,8 +23,20 @@ Execute the program
 	
    <body>
       <table border = "1" cellspacing="1" bordercolor="blue" bgcolor="yellow">
+                  
+       <img src ="logo 1.png">
          <tr>
             <th colspan="8">TIME TABLE</th>
+            
+    
+          <tr>
+            <th colspan="2"> NAME: Prethiveerajan .P
+            <th colspan="2"> REF NO: 21500340
+            <th colspan="6"> DEPT: ARTIFICIAL INTELLIGENCE AND DATA SCIENCE</th>
+         </tr>
+         <tr>
+            <th colspan="8">TIME TABLE</th>
+          </tr>
          </tr>
          
          <tr>
@@ -33,9 +45,10 @@ Execute the program
             <th>2</th>
             <th>3</th>
              <th>4</th>
-            <th rowspan="6">lunch break</th>
             <th>5</th>
+          
             <th>6</th>
+            <th>7</th>
          </tr>
           <tr>
              <td>MONDAY</td>
@@ -44,6 +57,8 @@ Execute the program
              <td>python& linear algebra</td>
              
              <td>python linear algebra</td>
+             <th>mentoring </th>
+             
              <td align="center">python& linear algebra</td>
              <td align="center">python &linear algebra</td>
          </tr>
@@ -52,15 +67,16 @@ Execute the program
              <td>softskill</td>
              <td>soft skill</td>
              <td>mechanical and modeling </td>
-             
+            
              <td>mechanical and modeling</td>
+              <th rowspan="4">lunch break</th>
              <td align="center">mechanical and modeling</td>
              <td align="center">mechanical and modeling</td>
          </tr>
          <tr>
              <td>wednesday</td>
-             <td>-</td>
-             <td>-</td>
+             <td> <center>- </center></td>
+             <td><center>- </center></td>
              <td> python& linear algebra</td>
              
              <td>python& linear algebra</td>
@@ -101,3 +117,4 @@ Execute the program
 
 ~~~
 # OUPUT
+ [gitlogo]
