@@ -109,6 +109,17 @@ Execute the program
 
          
       </table>
+      br>1. 19EY701-Soft skill-                                    Praveen P</br>
+      <br>2. 19MC802-Environmental science-                         muthu pandi</br>
+      <br>3. 19MA221-Linear Algebra Laboratory-                   Jaba jasphin</br>
+      <br>4. 19AI301-Python Programming-                           Jaba jasphin</br>
+      <br>5. 19MA220-Mathematics for Artificial Intelligence-       Jaba jasphin</br>
+      <br>6. 19AI402-Web Technology Laboratory-                     Obed otto </br>
+      <br>7. 19AI401-Fundamentals of Web Technology-                  Obed otto</br>
+      <br>8. 19AI302-Engineering Design and Modeling-               Ram prasath</br>
+      <br>9. 19AI303-Engineering Mechanics and Product Development- Ram prasath</br>
+      <br>10.ECA051-AD-Mentoring - AD1-                          s.sridhar</br>
+      Cr
       
    </body>
 </html>
