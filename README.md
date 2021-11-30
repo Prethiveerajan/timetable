@@ -14,7 +14,9 @@ Add your timetable
 Execute the program
 
 # CODE
-~~<!DOCTYPE html>
+
+`````
+<!DOCTYPE html>
 <html>
 
    <head>
@@ -67,7 +69,6 @@ Execute the program
              <td>softskill</td>
              <td>soft skill</td>
              <td>mechanical and modeling </td>
-            
              <td>mechanical and modeling</td>
               <th rowspan="4">lunch break</th>
              <td align="center">mechanical and modeling</td>
@@ -101,8 +102,6 @@ Execute the program
              <td>enviromental  science</td>
              <td>python linear algebra</td>
              <td>python linear algebra</td>
-             
-             
              <td align="centre">web technology</td>
              <td align="centre">web technology</td>
 
@@ -114,7 +113,6 @@ Execute the program
    </body>
 </html>
 
-
-~~~
+`````
 # OUPUT
- [gitlogo]
+ ![gitlogo]
