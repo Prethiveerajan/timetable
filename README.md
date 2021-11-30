@@ -126,4 +126,6 @@ Execute the program
 
 `````
 # OUPUT
- ![gitlogo]
+ 
+ ![Screenshot (89)](https://user-images.githubusercontent.com/94233064/144078009-775412a1-8854-4884-85ce-31812e5584f7.png)
+
