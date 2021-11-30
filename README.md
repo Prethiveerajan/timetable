@@ -109,7 +109,7 @@ Execute the program
 
          
       </table>
-      br>1. 19EY701-Soft skill-                                    Praveen P</br>
+      <br>1. 19EY701-Soft skill-                                    Praveen P</br>
       <br>2. 19MC802-Environmental science-                         muthu pandi</br>
       <br>3. 19MA221-Linear Algebra Laboratory-                   Jaba jasphin</br>
       <br>4. 19AI301-Python Programming-                           Jaba jasphin</br>
